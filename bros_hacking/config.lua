@@ -68,13 +68,7 @@ Config.NPC = {
 
 --------------------------------- Drawtext Options ---------------------------------
 
-Config.BlackDrawText = "~r~[E]~w~ Hacker Jony"
 Config.SellerDrawText = "~r~[E]~w~ Hacker Tony"
-
------------------------------------ Dialog Options ---------------------------------
-
-Config.NPCName = "Hacker Jony"
-Config.NPCDialog = "Siktir git lan"
 
 ----------------------------------- Dispatch Options ---------------------------------
 
